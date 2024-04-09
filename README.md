@@ -22,7 +22,7 @@ Other Tools: Git, VS Code, Zed, Vim, Postman
 
 <h2>🌱 Current Focus</h2>
 
-I'm currently sharpening my skills in how real time communication works in web. I'm passionate about staying up-to-date with the latest trends in web development and continuously expanding my knowledge base.
+I'm currently diving more deep into Web Dev. I'm passionate about staying up-to-date with the latest trends in web development and continuously expanding my knowledge base.
 
 <h2>🏆 Competitive Programming</h2>
 

@@ -26,7 +26,7 @@ Explore my repositories to find a mix of personal projects and collaborative eff
 
 
 <b>📫 How to reach me **krishanand974@gmail.com**</b><br></br>
-<b> Check out my Portfolio Website https://portfolio-git-main-krish-anands-projects.vercel.app/  </b>
+<b> Check out my Portfolio Website https://portfolio-main-krish-anands-projects.vercel.app/  </b>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=official-krish&" alt="official-krish" /></p>
 

@@ -16,7 +16,6 @@ I am proficient in a wide range of programming languages, frameworks, and tools,
 <h2>📂 Projects</h2>
 Explore my repositories to find a mix of personal projects and collaborative efforts. Each project comes with a detailed README to help you understand the purpose, technologies used, and how to get started.
 
-<h3> 🔭 I’m currently Building </h3>Finance SaaS platform  
 
 
 <h3 align="left">Connect with me:</h3>
@@ -26,7 +25,6 @@ Explore my repositories to find a mix of personal projects and collaborative eff
 
 
 <b>📫 How to reach me **krishanand974@gmail.com**</b><br></br>
-<b> Check out my Portfolio Website https://portfolio-main-krish-anands-projects.vercel.app/  </b>
 
 
 <br></br>

@@ -12,7 +12,7 @@ I specialize in building decentralized applications and smart contracts with a f
 
 ## 📫 How to reach me:
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-iamnas-181717?style=for-the-badge&logo=github)](https://github.com/Official-Krish)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-@0xnas__eth-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/KrishAnand0103)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-KrishAnand-181717?style=for-the-badge&logo=github)](https://github.com/Official-Krish)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@KrishAnand__eth-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/KrishAnand0103)
 
 Feel free to check out my projects and reach out if you're interested in collaborating or learning more about blockchain development!

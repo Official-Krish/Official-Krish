@@ -17,4 +17,4 @@ I specialize in building decentralized applications and smart contracts with a f
 
 Feel free to check out my projects and reach out if you're interested in collaborating or learning more about blockchain development!
 
-Checkout: [![Portfolio]](https://krishdev.xyz)
+Checkout: [[Portfolio]](https://krishdev.xyz)
